@@ -1,0 +1,15 @@
+info face="黑体" size=92 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=1,1 outline=2
+common lineHeight=92 base=79 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="font_1_0.png"
+chars count=11
+char id=46   x=464   y=0     width=28    height=96    xoffset=-2    yoffset=-2    xadvance=24    page=0  chnl=15
+char id=48   x=0     y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=49   x=58    y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=50   x=116   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=51   x=174   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=52   x=232   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=53   x=290   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=54   x=348   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=55   x=406   y=0     width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=56   x=0     y=97    width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
+char id=57   x=58    y=97    width=57    height=96    xoffset=-2    yoffset=-2    xadvance=53    page=0  chnl=15
